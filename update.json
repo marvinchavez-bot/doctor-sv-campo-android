@@ -1,1 +1,7 @@
-
+{
+  "versionName": "1.0.0.1",
+  "versionCode": 29,
+  "url": "https://github.com/marvinchavez-bot/doctor-sv-campo-android/releases/download/v1.0.0.1/Doctor-SV-Campo-1.0.0.1.apk",
+  "sha256": "6ae5db590c465c11aa0b1caf3e891fbf6e55a2b396dea8097636a7eb1719374e",
+  "notes": "Permisos de Android al primer inicio, alerta de ubicación, saldos por tipo de permiso y formularios actuales sin pantalla anterior."
+}
